@@ -1,0 +1,11 @@
+{
+  "name": "Jeremy's Portfolio",
+  "short_name": "Portfolio",
+  "description": "Explore Jeremy's personal portfolio showcasing skills and experience in full-stack development.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "orientation": "portrait",
+  "lang": "en-US"
+}
