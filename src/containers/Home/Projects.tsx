@@ -30,6 +30,7 @@ const ALLOWED_TITLES = [
   "Crimp-dle",
   "TradeShi",
   "Servconfigs",
+  "100 Gorilla",
 ];
 
 // Static projects bundled with the site
