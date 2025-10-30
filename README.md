@@ -1,6 +1,8 @@
 
 ```
 
+rm -rf /home/portfolio
+
 sudo systemctl stop portfolio 2>/dev/null || true
 
 git clone https://github.com/webwizarding/improved-octo-barnacle.git
