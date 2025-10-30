@@ -27,7 +27,7 @@
       "title": "Crimp-dle",
       "description": "Wordle-like guessing game that has players guess the difficulties of climbing problems and routes. Built with Vercel, Next.js + Vite, and the Google Developer API.",
       "technologies": ["Vercel", "Next.js", "Vite", "Google Developer API"],
-      "demoLink": "https://crimp-dle.vercel.app/?mode=daily",
+      "demoLink": "https://crimps.rocks/",
       "sourceLink": "https://git.gay/wizardingthefuture/crimpdle"
     },
     {
@@ -41,6 +41,13 @@
       "description": "Server and website configuration templates focused on safer, easier self-hosting.",
       "technologies": ["Linux", "Nginx", "Security"],
       "sourceLink": "https://git.gay/wizardingthefuture/servconfigs"
+    },
+    {
+      "title": "100 Gorilla",
+      "description": "A Crypto platform design demo focused on full user control and insight",
+      "technologies": ["Design"],
+      "demoLink": "https://100gorilla.vercel.app/",
+      "sourceLink": "https://git.gay/wizardingthefuture/100gorilla"
     }
   ]
 }
